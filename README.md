@@ -1,6 +1,6 @@
 <h1>astrocamp-ruby-homework-css</h1>
 <h2>内容説明</h2>
-<p>中国版のCSS、HTMLとSCSS練習</p>
+<p>中国語版のCSS、HTMLとSCSS練習</p>
 <h2>使う技術</h2>
 <ol>
   <li>CSS</li>
