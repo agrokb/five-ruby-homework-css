@@ -5,7 +5,8 @@
 <ol>
   <li>CSS</li>
   <li>HTML</li>
-  <li>SCSS</li>
+  <li>SaAA/SCSS</li>
+   <li>flex-box</li>
 </ol>
 <h2>参考コース</h2>
 <a href="https://campus.5xruby.tw/courses/489534/lectures/9347394">astrocamp</a>
