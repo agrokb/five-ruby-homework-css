@@ -5,7 +5,7 @@
 <ol>
   <li>CSS</li>
   <li>HTML</li>
-  <li>SaSS/SCSS</li>
+  <li>Sass/SCSS</li>
    <li>flex-box</li>
 </ol>
 <h2>参考コース</h2>
